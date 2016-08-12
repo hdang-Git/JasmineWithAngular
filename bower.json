@@ -1,0 +1,18 @@
+{
+  "name": "webstuff",
+  "description": "components for angular testing in karma-jasmine",
+  "main": "angular",
+  "authors": [
+    "Hai Dang"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
